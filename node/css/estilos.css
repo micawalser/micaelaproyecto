@@ -1,0 +1,84 @@
+#logo {
+  width: 180px; }
+
+.ancho {
+  width: 100%; }
+
+.primera {
+  width: 350px;
+  height: 350px; }
+
+.segunda {
+  width: 400px;
+  height: 350px; }
+
+.tercera {
+  width: 500px;
+  height: 350px; }
+
+.wpp {
+  width: 50px;
+  height: 50px; }
+
+.container-fluid {
+  display: flex;
+  align-items: center; }
+
+.containercards {
+  margin: 30px;
+  margin-top: 100px;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center; }
+
+.eleccion {
+  margin-top: 130px;
+  /* font-family: 'Montserrat', sans-serif;*/
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: #5e0909;
+  font-size: 55px; }
+
+.texto {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 25px; }
+
+.footermemb {
+  margin-top: 130; }
+
+.margin {
+  margin-top: 100px; }
+
+.cartas {
+  margin: 30px;
+  margin-top: 100px;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-evenly;
+  align-items: center; }
+
+.preguntas {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  text-decoration: overline;
+  margin-top: 85px; }
+
+.containersalon {
+  display: flex;
+  justify-content: center;
+  justify-items: center; }
+
+.imagensalon {
+  display: flex;
+  margin-top: 100px; }
+
+.textoo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: aliceblue; }
